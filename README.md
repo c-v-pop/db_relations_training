@@ -1,5 +1,5 @@
 
-<div align="center">
+<div>
 <a>Steps to create project</a>
 <ol>
     <li>Laravel New "Project Name"</li>
