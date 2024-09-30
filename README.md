@@ -8,5 +8,8 @@
     <li>Install Tailwind and configure</li>
     <li>Run Build with npm run dev</li>
 </ol>
+    <ul>
+        <li>Create MVC</li>
+    </ul>
 </div>
 
