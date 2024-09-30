@@ -1,6 +1,6 @@
 
-<p align="center">
+<div align="center">
 <a>Steps to create project</a>
 <a></a>
-</p>
+</div>
 
